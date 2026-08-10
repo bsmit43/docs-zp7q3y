@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-dmbr0c.cuansalam.cfd/sitemap.xml
